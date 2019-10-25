@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ExcelMandarinApplication",
+    "packageName": "com.excelmandarin.app",
+    "packageFolder": "com/excelmandarin/app",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "zh-cn",
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "NjFjMWZmMDY5N2Q3ZTI0YmEzNmQ0NmJiNGRhNTFhZTlmYzRlNGMwM2EwYTMxNDljODQ1NTdiODgyY2QyZTBhNzM2MDY4YmM0ODY4ZjM1ZmU1OGNkMTRmZGQxY2ZmMjFkNTdmZTQ3NzUwYTYyZGE1NWUwYjgzMWQ4NDgwOTIzZjk=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mctang719",
+  "repository-name": "excel-mandarin-application"
+}
